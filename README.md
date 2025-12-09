@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi, my name is Ruslan
 
 <!--
 **ruslan-da/ruslan-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Who am I
+I'm a Data Analyst in a small ISP.
+
+I'm currently working with data, databases, and code in SQL.
+
+Recently passed through some online courses on Python(pandas, matplotlib) and DataLens (Yandex BI tool).
+
+### Why I'm here
+To learn new things and share my owns.
