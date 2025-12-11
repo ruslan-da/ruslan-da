@@ -25,3 +25,6 @@ Recently passed through some online courses on Python(pandas, matplotlib) and Da
 
 ### Why I'm here
 To learn new things and share my owns.
+
+# Skills
+SQL - Excel - GoogleSheets - DataLens - Python
